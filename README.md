@@ -1,6 +1,7 @@
 # FOGT
-Praca na przedmiocie Fizyka Ogólna.
 
-ped.ipynb - obliczone średnie położenie oraz średni pęd cząstki w studni potencjału.
+Work completed for the General Physics course at Warsaw University of Technology.
 
-proj.py - program pozwala na wizualizację funkcji falowej w pudełku potencjału 3D. Wymiary pudełka są określone z góry, jednak użytkownik może wybierać wartość liczb kwantowych.
+ped.ipynb – calculated the average position and average momentum of a particle in a potential well.
+
+proj.py – a program that visualizes the wave function in a 3D potential box. The dimensions of the box are predefined, but the user can choose the values of the quantum numbers.
